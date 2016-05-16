@@ -3,7 +3,7 @@ require 'csv'
 
 def db_connection
   begin
-    connection = PG.connect(dbname: "korning")
+    connection = PG.connect(dbname: "sales")
     yield(connection)
   ensure
     connection.close
