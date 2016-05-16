@@ -1,4 +1,6 @@
-Information is often transferred between applications in a denormalized format so that it can be stored in a single file. In this challenge you'll receive such a file and define a database schema to store the information in a normalized format and write a script to import data from a CSV.
+#SQL Sales Importer
+
+This is an exercise I did to practice In this challenge you'll receive such a file and define a database schema to store the information in a normalized format and write a script to import data from a CSV.
 
 ### Instructions
 
